@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://tejas123:tejas123@devcluster-ridfp.mongodb.net/test?retryWrites=true&w=majority"
+}
