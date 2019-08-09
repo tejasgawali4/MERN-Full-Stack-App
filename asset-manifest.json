@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MERN-Full-Stack-App/static/css/main.d8e0a91e.chunk.css",
+    "main.js": "/MERN-Full-Stack-App/static/js/main.00307dca.chunk.js",
+    "main.js.map": "/MERN-Full-Stack-App/static/js/main.00307dca.chunk.js.map",
+    "runtime~main.js": "/MERN-Full-Stack-App/static/js/runtime~main.55dcbac5.js",
+    "runtime~main.js.map": "/MERN-Full-Stack-App/static/js/runtime~main.55dcbac5.js.map",
+    "static/js/2.055a4b6e.chunk.js": "/MERN-Full-Stack-App/static/js/2.055a4b6e.chunk.js",
+    "static/js/2.055a4b6e.chunk.js.map": "/MERN-Full-Stack-App/static/js/2.055a4b6e.chunk.js.map",
+    "index.html": "/MERN-Full-Stack-App/index.html",
+    "precache-manifest.b91c11cb65d96466045b741773d34166.js": "/MERN-Full-Stack-App/precache-manifest.b91c11cb65d96466045b741773d34166.js",
+    "service-worker.js": "/MERN-Full-Stack-App/service-worker.js",
+    "static/css/main.d8e0a91e.chunk.css.map": "/MERN-Full-Stack-App/static/css/main.d8e0a91e.chunk.css.map",
+    "static/media/App.css": "/MERN-Full-Stack-App/static/media/showcase.4b31330b.jpg"
+  }
+}
